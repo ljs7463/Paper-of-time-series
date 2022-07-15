@@ -1,1 +1,1 @@
-# Paper-of-time-series
+# paper review repository
